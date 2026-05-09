@@ -1,0 +1,114 @@
+.project-detail-container {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background-color: #fcfdfc;
+  min-height: 100vh;
+}
+
+.detail-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo-title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+.logo-dot {
+  width: 8px;
+  height: 8px;
+  background-color: #4caf50;
+  border-radius: 50%;
+}
+
+.header-subtitle {
+  font-size: 14px;
+  color: #666;
+}
+
+.back-link {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.detail-body {
+  max-width: 800px;
+}
+
+.project-name {
+  font-size: 32px;
+  margin: 0 0 8px 0;
+  color: #1b3a1e;
+}
+
+.project-loc {
+  margin: 0 0 40px 0;
+  font-size: 16px;
+  color: #4caf50;
+  font-weight: 500;
+}
+
+.metrics-group {
+  display: flex;
+  gap: 80px;
+  margin-bottom: 40px;
+}
+
+.metric-label {
+  font-size: 12px;
+  font-weight: bold;
+  color: #999;
+  letter-spacing: 1px;
+}
+
+.metric-value {
+  margin: 8px 0 0 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.status-active {
+  color: #2e7d32;
+}
+
+.status-maintenance {
+  color: #c77c02;
+}
+
+.status-pending {
+  color: #666;
+}
+
+.description-box {
+  border-top: 1px solid #eee;
+  padding-top: 30px;
+}
+
+.description-title {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.description-text {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
