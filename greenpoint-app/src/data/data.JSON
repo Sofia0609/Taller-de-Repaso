@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Planta Solar Norte",
+    "location": "Buga, Valle",
+    "capacity": 500,
+    "status": "Activo",
+    "description": "Instalación industrial de alta eficiencia con 1500 paneles monocristalinos."
+  },
+  {
+    "id": 2,
+    "name": "Residencial El Lago",
+    "location": "Cali, Valle",
+    "capacity": 15,
+    "status": "Mantenimiento",
+    "description": "Limpieza de inversores y revisión de cableado estructural en tejado."
+  },
+  {
+    "id": 3,
+    "name": "Centro Comercial Arboleda",
+    "location": "Pereira, Risaralda",
+    "capacity": 120,
+    "status": "Activo",
+    "description": "Sistema de autoconsumo para zonas comunes y parqueaderos."
+  },
+  {
+    "id": 4,
+    "name": "Granja Solar Palmira",
+    "location": "Palmira, Valle",
+    "capacity": 850,
+    "status": "Pendiente",
+    "description": "Proyecto en fase de montaje de estructuras y soportes de suelo."
+  },
+  {
+    "id": 5,
+    "name": "Hotel del Mar",
+    "location": "Santa Marta, Magdalena",
+    "capacity": 45,
+    "status": "Activo",
+    "description": "Instalación híbrida con almacenamiento en baterías para respaldo nocturno."
+  },
+  {
+    "id": 6,
+    "name": "Campus Universitario Univalle",
+    "location": "Cali, Valle",
+    "capacity": 200,
+    "status": "Activo",
+    "description": "Laboratorio vivo de energía solar para la facultad de ingeniería."
+  },
+  {
+    "id": 7,
+    "name": "Condominio Pance",
+    "location": "Cali, Valle",
+    "capacity": 8,
+    "status": "Mantenimiento",
+    "description": "Actualización de microinversores y optimización de sombreado."
+  },
+  {
+    "id": 8,
+    "name": "Fábrica de Textiles",
+    "location": "Medellín, Antioquia",
+    "capacity": 350,
+    "status": "Pendiente",
+    "description": "Esperando conexión a la red por parte del operador local."
+  },
+  {
+    "id": 9,
+    "name": "Hospital Regional",
+    "location": "Pasto, Nariño",
+    "capacity": 60,
+    "status": "Activo",
+    "description": "Sistema de emergencia para áreas críticas y climatización."
+  },
+  {
+    "id": 10,
+    "name": "Supermercado Mercatodo",
+    "location": "Armenia, Quindío",
+    "capacity": 90,
+    "status": "Activo",
+    "description": "Reducción de huella de carbono mediante 280 paneles bifaciales."
+  },
+  {
+    "id": 11,
+    "name": "Agrícola Los Llanos",
+    "location": "Villavicencio, Meta",
+    "capacity": 110,
+    "status": "Mantenimiento",
+    "description": "Reparación de trackers (seguidores solares) por daños climáticos."
+  },
+  {
+    "id": 12,
+    "name": "Edificio Corporativo Sky",
+    "location": "Bogotá, D.C.",
+    "capacity": 30,
+    "status": "Activo",
+    "description": "Paneles integrados en fachada (BIPV) para diseño arquitectónico sostenible."
+  },
+  {
+    "id": 13,
+    "name": "Parqueaderos Públicos",
+    "location": "Manizales, Caldas",
+    "capacity": 25,
+    "status": "Pendiente",
+    "description": "Instalación de pérgolas solares para carga de vehículos eléctricos."
+  },
+  {
+    "id": 14,
+    "name": "Zona Franca Occidente",
+    "location": "Mosquera, Cundinamarca",
+    "capacity": 1200,
+    "status": "Activo",
+    "description": "El proyecto más grande de la zona con inyección directa a media tensión."
+  },
+  {
+    "id": 15,
+    "name": "Institución Educativa Rural",
+    "location": "Buenaventura, Valle",
+    "capacity": 12,
+    "status": "Activo",
+    "description": "Sistema off-grid para garantizar conectividad en zona remota."
+  },
+  {
+    "id": 16,
+    "name": "Almacén de Cadena",
+    "location": "Popayán, Cauca",
+    "capacity": 75,
+    "status": "Mantenimiento",
+    "description": "Revisión preventiva anual de protecciones de corriente continua."
+  },
+  {
+    "id": 17,
+    "name": "Club Campestre",
+    "location": "Jamundí, Valle",
+    "capacity": 40,
+    "status": "Activo",
+    "description": "Climatización de piscinas mediante colectores térmicos e híbridos."
+  },
+  {
+    "id": 18,
+    "name": "Planta de Tratamiento de Aguas",
+    "location": "Yumbo, Valle",
+    "capacity": 180,
+    "status": "Pendiente",
+    "description": "Fase final de cableado de strings y monitoreo remoto."
+  },
+  {
+    "id": 19,
+    "name": "Bodega Logística Sur",
+    "location": "Guarne, Antioquia",
+    "capacity": 400,
+    "status": "Activo",
+    "description": "Aprovechamiento de 2500m2 de techado industrial."
+  },
+  {
+    "id": 20,
+    "name": "Centro de Datos Tech",
+    "location": "Chia, Cundinamarca",
+    "capacity": 150,
+    "status": "Activo",
+    "description": "Suministro complementario para servidores con alta redundancia."
+  }
+]
